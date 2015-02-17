@@ -91,13 +91,12 @@ header .container {
 }
 
 header img {
-    display: inline;
-    margin: 0;
+    display: block;
+    margin: 0 auto 20px;
 }
 
 header .intro-text .name {
-    display: inline;
-    float: center;
+    display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
