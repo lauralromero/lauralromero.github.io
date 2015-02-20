@@ -6,6 +6,8 @@
 
 body {
     overflow-x: hidden;
+    background: #FFF url("http://40.media.tumblr.com/f3507867f27d7c03c9550a0f6b1e44af/tumblr_nk3buq9muS1qjx4r5o3_1280.jpg") no-repeat center top;
+    background-size: cover;
 }
 
 p {
@@ -82,8 +84,6 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #FFF url("http://40.media.tumblr.com/f3507867f27d7c03c9550a0f6b1e44af/tumblr_nk3buq9muS1qjx4r5o3_1280.jpg") no-repeat center top;
-    background-size: cover;
    }
 
 
