@@ -82,13 +82,17 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
+<<<<<<< HEAD:css/custom.css
     background:  src="img/whom-i-love/roof.jpg";
     background-size: cover;
+=======
+    background: #e2c1c1;
+>>>>>>> origin/master:css/custom.css
 }
 
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 header img {
