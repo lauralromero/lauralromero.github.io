@@ -82,7 +82,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #e2c1c1;
+    background:  src="img/whom-i-love/roof.jpg";
+    background-size: cover;
 }
 
 header .container {
