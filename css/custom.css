@@ -82,7 +82,13 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background:  #e2c1c1;
+    width: 780px;
+    background: #FFF url("http://40.media.tumblr.com/6bd4fe6fe326bd9b955c5874aae2368c/tumblr_nk3buq9muS1qjx4r5o1_1280.jpg") no-repeat center top;
+    margin: 0 auto;
+    height:100%;
+   }
+
+
 }
 
 header .container {
