@@ -39,9 +39,9 @@ h6 {
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
-    padding: 0;
+    padding: 20px;
     max-width: 250px;
-    border: 0;
+    border: 20px;
     border-top: solid 5px;
     text-align: center;
 }
@@ -82,12 +82,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-<<<<<<< HEAD:css/custom.css
     background:  src="img/whom-i-love/roof.jpg";
     background-size: cover;
-=======
-    background: #e2c1c1;
->>>>>>> origin/master:css/custom.css
 }
 
 header .container {
