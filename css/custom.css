@@ -68,11 +68,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #2e313a;
+    border-color: #17181d;
 }
 
 hr.star-primary:after {
-    color: #2e313a;
+    color: #17181d;
     background-color: #fff;
 }
 
@@ -342,7 +342,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2e313a;
+    background-color: #17181d;
 }
 
 footer .footer-col {
@@ -435,7 +435,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2e313a;
+    background-color: #17181d;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -445,7 +445,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2e313a;
+    background-color: #17181d;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
