@@ -202,10 +202,14 @@ section.success {
     }
 }
 
+.portafolio {
+    background: #f3f3f3;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
-    background: #f3f3f3;
+ 
 }
 
 #portfolio .portfolio-item .portfolio-link {
