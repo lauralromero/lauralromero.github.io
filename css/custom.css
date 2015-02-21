@@ -189,7 +189,7 @@ section h2 {
 section.success {
     color: #fff;
     background-size: cover;
-    background: #FFF url("https://40.media.tumblr.com/d27a860aa15ecb7ec452ef47f215b48f/tumblr_nk3zvqV0631qjx4r5o1_540.jpg") no-repeat center top;
+    background: #FFF url("http://36.media.tumblr.com/024c4754346e69cbbb6c7e3dfacb566e/tumblr_nk401mRDHs1qjx4r5o1_1280.jpg") no-repeat center top;
 }
 
 @media(max-width:767px) {
@@ -205,6 +205,7 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    background: #f3f3f3;
 }
 
 #portfolio .portfolio-item .portfolio-link {
