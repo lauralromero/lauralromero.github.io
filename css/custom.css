@@ -188,6 +188,7 @@ section h2 {
 
 section.success {
     color: #fff;
+    background-size: cover;
     background: #FFF url("https://40.media.tumblr.com/d27a860aa15ecb7ec452ef47f215b48f/tumblr_nk3zvqV0631qjx4r5o1_540.jpg") no-repeat center top;
 }
 
