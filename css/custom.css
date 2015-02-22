@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #bd424e;
+    color: rgba(189, 66, 78, .8);
 }
 
 h1,
@@ -63,7 +63,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #bd424e;
+    background-color: rgba(189, 66, 78, .8);
 }
 
 hr.star-primary {
@@ -275,7 +275,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #bd424e;
+    color: rgba(189, 66, 78, .8);
     background: #fff;
 }
 
