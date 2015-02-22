@@ -32,7 +32,6 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-style: italic;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 550;
 }
@@ -103,7 +102,6 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-style: italic;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 550;
     font-size: 2em;
@@ -155,7 +153,6 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-style: italic;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 550;
 }
